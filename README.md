@@ -8,14 +8,14 @@ Download the files and put them in your root directory
 2.
 Paste all this in the <head> section of your html
 
-``
+```
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"> </script>
 <script src="hamburgler.js"> </script> 
 <link rel="stylesheet" href="hamburgler.css">
-``
+```
 
 3.
-Paste this before everything inside your <body> tag
+Paste this before everything inside your ```<body>``` tag
 
 ```
 <!-- THIS IS THE MENU -->
@@ -28,7 +28,7 @@ Paste this before everything inside your <body> tag
 </div> 
 ```
 
-``
+```
 <!-- THIS IS THE ICON -->
 <a href="javascript:void(0)" class="icon">
   <div class="hamburger">
@@ -37,7 +37,7 @@ Paste this before everything inside your <body> tag
     <div class="menui bottom-menu"></div>
   </div>
 </a>
-``
+```
 
 4.
 Booyah
