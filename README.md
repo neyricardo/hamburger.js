@@ -17,7 +17,7 @@ Paste all this in the <head> section of your html
 3.
 Paste this before everything inside your <body> tag
 
-``
+```
 <!-- THIS IS THE MENU -->
 <div class="mobilenav">
   <li><a href="#">Never</a></li>
@@ -26,7 +26,7 @@ Paste this before everything inside your <body> tag
   <li><a href="#">You</a></li>
   <li><a href="#">Up</a></li>
 </div> 
-``
+```
 
 ``
 <!-- THIS IS THE ICON -->
